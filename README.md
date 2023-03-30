@@ -1,8 +1,8 @@
 # Database-Practice-Web-Programming
-It is a team project for the year 3 module, Database Practice Web Programming.
+3학년 과목중 하나인 Database Practice Web Programming 에서 진행한 team project.
 
-#### Topic
-- Verifying Negativity bias through Twitter data
+#### 주제
+- 트위터 데이터를 통한 부정 편향성 검증
 
 #### Motivation
 - Negativity Bias. Bad events having a more significant impact on our psychological state than positive events.
