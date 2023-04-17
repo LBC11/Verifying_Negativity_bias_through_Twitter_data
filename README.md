@@ -1,5 +1,5 @@
 # Database-Practice-Web-Programming
-Database Practice Web Programming, ITM 3학년 과목, 에서 진행한 team project.
+Team project in Database Practice Web Programming
 
 #### 주제
 - 트위터 데이터를 통한 부정 편향성 검증
